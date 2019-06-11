@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Running Parameters</string>
+    <string name="title_activity_maps">Running Parameters</string>
+    <string name="step_length">Step Length</string>
+    <string name="km">--.-km</string>
+    <string name="time">Time</string>
+    <string name="distance">Distance</string>
+    <string name="pace">Pace</string>
+    <string name="min_km">---min/km</string>
+    <string name="cadence">Cadence</string>
+    <string name="stop_training">Stop Training</string>
+    <string name="cm">---cm</string>
+    <string name="average_parameters">Average Parameters</string>
+    <string name="current_parameters">Current Parameters</string>
+</resources>
